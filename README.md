@@ -1,2 +1,1 @@
-# Shokams-Danmaku-Destiny
-ive had enough of your fucking bullshit bro
+### full source code for the hit game "Shokam's Danmaku Destiny"
